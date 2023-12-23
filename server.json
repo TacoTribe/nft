@@ -2,11 +2,11 @@
   {
     "from": 1,
     "until": 2000,
-    "server": "https://cdn-bloob-tacotribe1.github.io"
+    "server": "https://cdn-bloob-tacotribe1.github.io/"
   },
   {
     "from": 2001,
     "until": 3000,
-    "server": "https://cdn-bloob-tacotribe2.github.io"
+    "server": "https://cdn-bloob-tacotribe2.github.io/"
   }
 ]
