@@ -1,12 +1,12 @@
 [
   {
     "from": 1,
-    "until": 1000,
+    "until": 2000,
     "server": "https://tacotribe.github.io/cdn-bloob-tacotribe1.github.io/"
   },
   {
-    "from": 1001,
-    "until": 2000,
-    "server": "https://raw.githubusercontent.com/TacoTribe/cdn-bloob-tacotribe1.github.io/ee49d9497d9d82a905016db82e64384a9491309b/"
+    "from": 2001,
+    "until": 3500,
+    "server": "https://tacotribe.github.io/cdn-bloob-tacotribe2.github.io/"
   }
 ]
